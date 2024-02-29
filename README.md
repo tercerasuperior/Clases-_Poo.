@@ -8,7 +8,8 @@ Este repositorio contiene ejemplos y explicaciones sobre los conceptos fundament
 
 1. Clona este repositorio en tu máquina local:
 
-git clone https://github.com/JSand89/clase-intro-poo
+clear
+ clone https://github.com/JSand89/clase-intro-poo
 
 
 2. Navega al directorio del proyecto:
